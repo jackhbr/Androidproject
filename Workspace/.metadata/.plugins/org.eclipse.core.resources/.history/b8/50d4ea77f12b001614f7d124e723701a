@@ -1,0 +1,93 @@
+<html>
+	<head>
+		
+		<link rel="stylesheet" href="css/themes/default/jquery.mobile-1.4.5.min.css">
+		<script src="js/jquery.js"></script>
+		<script src="js/jquery.mobile-1.4.5.min.js"></script>
+	</head>	
+<body>
+
+<div data-role="page" id="gin">
+<div data-role="header">
+<h1 align="center">一起欣赏湖南的风景吧！</h1>
+</div>
+<div data-role="content">
+ <a href="#main" data-transition="flip"><input type="button" value="开始旅行吧！"/></a>
+</div>
+</div>
+
+
+<div data-role="page" id="main">
+<!--页头包含1~2个导航按钮-->
+<!--data-position设fixed表示固定位置，设Inline放在页面内 -->
+<!--data-fullscreen="true" 表示全屏-->
+<div data-role="header" data-fullscreen="true">
+<div data-role="navbar">
+<ul>
+<!--ui-btn-active:默认选中-->
+<li><a href="#iner" class="ui-btn-active">张家界</a></li>
+<li><a href="#bin">凤凰古城</a></li>
+<li><a href="#hin">世界之窗</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div data-role="page" id="iner">
+<div data-role="header" data-fullscreen="true">
+<div data-role="navbar">
+<ul>
+<!--ui-btn-active:默认选中-->
+<li><a href="#iner" class="ui-btn-active">张家界</a></li>
+<li><a href="#bin">凤凰古城</a></li>
+<li><a href="#hin">世界之窗</a></li>
+</ul>
+</div>
+</div>
+<div data-role="content">
+<img src="js/1.jpg" />
+</div>
+
+
+
+<div data-role="page" id="bin">
+<div data-role="header" data-fullscreen="true">
+<div data-role="navbar">
+<ul>
+<!--ui-btn-active:默认选中-->
+<li><a href="#iner" class="ui-btn-active">张家界</a></li>
+<li><a href="#bin">凤凰古城</a></li>
+<li><a href="#hin">世界之窗</a></li>
+</ul>
+</div>
+</div>
+<div data-role="content">
+
+<img src="js/2.jpg" />
+
+</div>
+
+
+
+
+<div data-role="page" id="hin">
+<div data-role="header" data-fullscreen="true">
+<div data-role="navbar">
+<ul>
+<!--ui-btn-active:默认选中-->
+<li><a href="#iner" class="ui-btn-active">张家界</a></li>
+<li><a href="#bin">凤凰古城</a></li>
+<li><a href="#hin">世界之窗</a></li>
+</ul>
+</div>
+</div>
+<div data-role="content">
+<img src="js/3.png" />
+
+
+</div>
+
+</body>
+
+</html>

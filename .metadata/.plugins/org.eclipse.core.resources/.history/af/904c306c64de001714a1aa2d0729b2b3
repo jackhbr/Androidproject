@@ -1,0 +1,45 @@
+package jackbox;
+
+import robocode.HitRobotEvent;
+import robocode.HitWallEvent;
+import robocode.ScannedRobotEvent;
+
+public class go3 extends robocode.Robot{
+	private Boolean HitWallFlag=false;
+	public void run(){
+		double heading = this.getHeading();
+		turnLeft(heading);
+		
+		thread3 ak=new thread3();
+		Thread as=new Thread(ak);
+		as.start();//开个线程让他同时转炮头
+		
+		while(true)
+		{	
+			if(HitWallFlag==false)
+			{
+				ahead(10);	
+			}
+		
+			
+			
+		}
+		
+	}
+	
+	public void onScannedRobot(ScannedRobotEvent event){
+		//扫描到了一个机器人需要执行的内容
+		this.fire(3);
+		
+	}
+	
+	//撞墙旋转90度
+	public void onHitWall(HitWallEvent event){
+		HitWallFlag=true;
+		turnRight(180);
+	}
+	public void onHitRobot(HitRobotEvent e) {
+		
+	}
+
+}

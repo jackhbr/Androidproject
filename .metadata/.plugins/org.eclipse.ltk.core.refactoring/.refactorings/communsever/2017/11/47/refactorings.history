@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;smallknowledge2/src&apos;&#x0D;&#x0A;- Original project: &apos;communsever&apos;&#x0D;&#x0A;- Destination element: &apos;smallknowledge2/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     communsever/src/sever_send_file_to_client&#x0D;&#x0A;     communsever/src/sever_client_accept_file_from_sever" description="Copy packages" destination="=smallknowledge2/src" element1="/src&lt;sever_send_file_to_client" element2="/src&lt;sever_client_accept_file_from_sever" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1511074556722" version="1.0"/>
+</session>

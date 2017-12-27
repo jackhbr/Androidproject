@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="JavaSE-1.6" key="org.eclipse.jdt.ui.last.selected.execution.enviroment"/>
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="D:\java\json" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
+	<item value="2" key="org.eclipse.jdt.ui.last.selected.jre.kind2"/>
+	<item value="480,578" key="UserLibraryLoadSaveDialog.size"/>
+	<section name="SelfEncapsulateFieldWizard">
+		<item value="false" key="GenerateJavadoc"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="2" key="layout"/>
+		<item value="true" key="group_libraries"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;&quot;&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+		<item value="1" key="rootMode"/>
+		<item value="false" key="linkWithEditor"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item value="574" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="749" key="DIALOG_HEIGHT"/>
+		<item value="404" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="SourceActionDialog.constructors">
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
+		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="FatJarPackageWizard">
+		<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
+		<item value="ChessMap - fiveChess" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
+		<item value="C:\Users\jack\Desktop\博弈树.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
+		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\jack\Desktop\博弈树.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject.xml"/>
+			<item value=".xml"/>
+		</list>
+	</section>
+	<section name="javadoc">
+		<item value=" -encoding UTF-8 -charset UTF-8" key="vmparam"/>
+		<item value="private" key="access"/>
+		<item value="false" key="noindex"/>
+		<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\multipleWay\javadoc.xml" key="antpath"/>
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="true" key="use"/>
+		<item value="true" key="author"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="false" key="nonavbar"/>
+		<item value="" key="docletpath"/>
+		<item value="D:\Program Files\Java\jdk1.8.0_91\bin\javadoc.exe" key="javadoc_command_history"/>
+		<item value="1.6" key="source"/>
+		<item value="true" key="version"/>
+		<item value="" key="docletname"/>
+		<item value="true" key="splitindex"/>
+		<item value="true" key="fromStandard"/>
+		<item value="false" key="notree"/>
+		<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\multipleWay\doc" key="destdir"/>
+		<item value="false" key="openinbrowser"/>
+		<section name="projects">
+			<section name="gg">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\gg\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\gg\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="helloworld">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\helloworld\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\helloworld\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="countTimeCha">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\countTimeCha\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\countTimeCha\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="SWING">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\SWING\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\SWING\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="login faee">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\login faee\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\login faee\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="fileio">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\fileio\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\fileio\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="arraylist">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\arraylist\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\arraylist\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="my draw">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\my draw\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\my draw\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="quickSort">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\quickSort\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\quickSort\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="xchengge">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\xchengge\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\xchengge\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="robot">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\robot\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\robot\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="music">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\music\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\music\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="array">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\array\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\array\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="keylistener">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\keylistener\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\keylistener\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="value delivery">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\value delivery\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\value delivery\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="fiveChess">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\fiveChess\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\fiveChess\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="multipleWay">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\multipleWay\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\multipleWay\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="use of class1">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\use of class1\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\use of class1\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="use of class">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\use of class\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\use of class\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="caluate">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\caluate\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\caluate\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="SampleDraw">
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\SampleDraw\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\SampleDraw\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="xiongge">
+				<item value="C:\Users\jack\Desktop\javadoc.xml" key="antpath"/>
+				<item value="D:\java\adt-bundle-windows-x86_64-20130917\adt-bundle-windows-x86_64-20130917\Androidproject\xiongge\doc" key="destdir"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="659" key="DIALOG_HEIGHT"/>
+		<item value="383" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="completion_proposal_size">
+		<item value="275" key="size.y"/>
+		<item value="779" key="size.x"/>
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item value="false" key="SortOrdering"/>
+		<item value="false" key="RemoveFinal"/>
+	</section>
+	<section name="JarPackageWizard">
+		<item value="false" key="JarPackageWizardPage.INCLUDE_DIRECTORY_ENTRIES"/>
+		<item value="" key="JarManifestWizardPage.MANIFEST_LOCATION"/>
+		<item value="false" key="JarManifestWizardPage.SEAL_JAR"/>
+		<item value="true" key="JarPackageWizardPage.COMPRESS"/>
+		<item value="false" key="JarManifestWizardPage.REUSE_MANIFEST"/>
+		<item value="false" key="jarOptionsWizardPage.STORE_USE_SRC_FOLDERS"/>
+		<item value="true" key="jarOptionsWizardPage.EXPORT_WARNINGS"/>
+		<item value="" key="jarOptionsWizardPage.DESCRIPTION_LOCATION"/>
+		<item value="true" key="jarOptionsWizardPage.BUILD_IF_NEEDED"/>
+		<item value="false" key="JarPackageWizardPage.EXPORT_JAVA_FILES"/>
+		<item value="true" key="jarOptionsWizardPage.EXPORT_ERRORS"/>
+		<item value="true" key="JarManifestWizardPage.GENERATE_MANIFEST"/>
+		<item value="true" key="JarPackageWizardPage.EXPORT_CLASS_FILES"/>
+		<item value="false" key="JarPackageWizardPage.OVERWRITE"/>
+		<item value="false" key="jarOptionsWizardPage.SAVE_DESCRIPTION"/>
+		<item value="false" key="JarPackageWizardPage.REFACTORINGS"/>
+		<item value="false" key="JarManifestWizardPage.SAVE_MANIFEST"/>
+		<item value="false" key="JarPackageWizardPage.EXPORT_OUTPUT_FOLDER"/>
+		<list key="JarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="C:\Users\jack\Desktop\cn.netjava.rmi.share.IRMIService.jar"/>
+		</list>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="renameSubpackages"/>
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
+		<item value="false" key="updateSimilarElements"/>
+		<item value="false" key="updateTextualMatches"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item value="false" key="OmitCallToSuper"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_main"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item value="587" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="767" key="DIALOG_HEIGHT"/>
+		<item value="611" key="DIALOG_X_ORIGIN"/>
+		<item value="35" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="DialogBounds_GenerateToStringDialog">
+		<item value="516" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="759" key="DIALOG_HEIGHT"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="600" key="width"/>
+		<item value="400" key="height"/>
+	</section>
+	<section name="DialogBounds_AddDelegateMethodsDialog">
+		<item value="608" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="615" key="DIALOG_HEIGHT"/>
+		<item value="387" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="JavaBuildConfigurationBlock">
+		<item value="false" key="expanded2"/>
+		<item value="false" key="expanded1"/>
+		<item value="true" key="expanded0"/>
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item value="true" key="IgnoreDefault"/>
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
+		<item value="0" key="StringStyle"/>
+		<item value="0" key="ToStringTemplateSelected"/>
+		<item value="false" key="LimitElements"/>
+		<item value="false" key="SkipNull"/>
+		<item value="false" key="FinalModifier"/>
+		<item value="10" key="LimitValue"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="1" key="index"/>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
+</section>

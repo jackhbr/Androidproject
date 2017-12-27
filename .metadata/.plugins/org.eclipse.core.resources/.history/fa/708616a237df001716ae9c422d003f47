@@ -1,0 +1,18 @@
+package scgo;
+
+import robocode.AdvancedRobot;
+import robocode.ScannedRobotEvent;
+
+public class a1 extends AdvancedRobot{
+	public void run()
+	{
+		while(true)
+		{
+			turnRadarLeftRadians(2);
+		}
+	}
+	public void onScannedRobot(ScannedRobotEvent e) {
+		
+	}
+
+}

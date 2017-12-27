@@ -1,0 +1,36 @@
+package scgo;
+
+import robocode.AdvancedRobot;
+import robocode.ScannedRobotEvent;
+
+public class a1 extends AdvancedRobot{
+	double EnemyEnergy = 100;
+	public void run()
+	{
+		setAdjustGunForRobotTurn(true);//炮筒脱离机器人而运动
+		setAdjustRadarForGunTurn(true);
+		while(true)
+		{
+			turnRadarLeftRadians(2);
+		}
+	}
+	public void onScannedRobot(ScannedRobotEvent e) {
+		
+		if(EnemyEnergy!=e.getEnergy())//如果上一次敌人的能量值不等于现在的能量值，那么就移动躲掉别人的攻击
+		{
+			if(Math.random()<0.5)
+			{
+				setAhead(20+Math.random()*20);
+			}else {
+				setBack(20+Math.random()*20);
+			}
+			
+			EnemyEnergy=e.getEnergy();//获取现在的能量值，形成类似迭代的东西
+		}
+		
+		scan();//这个在最后面肯定是要有的，不然没法一直移动，这列采取主动触发scan的办法，因为
+		//机器不能同时做那么多的事情，又不能用多线程，所以这就是多线程的一直方式，这是让scan永远处于较高的中断优先级
+		//而且这个还能代替execute使set的方法执行
+	}
+
+}

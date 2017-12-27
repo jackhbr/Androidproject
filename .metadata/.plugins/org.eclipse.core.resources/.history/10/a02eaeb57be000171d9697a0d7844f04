@@ -1,0 +1,38 @@
+package json;
+
+import java.util.ArrayList;
+import java.util.HashMap;  
+import java.util.Map;  
+import java.util.List;
+
+import org.json.JSONArray;
+
+import com.sun.javafx.collections.MappingChange.Map;
+
+public class GatherToString {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		 //初始化ArrayList集合并添加数据
+        List<String> list = new ArrayList<String>();
+        list.add("username");
+        list.add("age");
+        list.add("sex");
+        String aaString="asdasd";
+        String sdsString="asdds";
+        //初始化HashMap集合并添加数组
+        Map<String, String> map = new HashMap<String, String>(); 
+        map.put("bookname", aaString);
+        map.put("price", "69.0");
+        
+        //初始化JSONArray对象，并添加数据
+        JSONArray array = new JSONArray();
+        array.put(list);
+        array.put(map);
+        
+        //生成的JSON字符串为：[["username","age","sex"],{"price":69,"bookname":"CSS3实战"}]
+	}
+
+}

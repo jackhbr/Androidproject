@@ -1,0 +1,12 @@
+package jackbox;
+
+public class thread3 extends robocode.Robot implements Runnable {
+
+	public void run() {
+		while(true)
+		{
+		turnGunLeft(10);
+		}
+	}
+
+}

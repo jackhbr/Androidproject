@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+		<style type="text/css">
+		em {color:orange}
+		p {color:red}
+		li {color:blue}
+		</style>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<script type="text/javascript" src="js/koala.min.1.5.js"></script>
+<script type="text/javascript">
+Qfast.add('widgets', { path: "js/terminator2.2.min.js", type: "js", requires: ['fx'] });  
+Qfast(false, 'widgets', function () {
+	K.tabs({
+		id: 'decoroll2',//焦点图包裹id  
+		conId: "decoimg_a2",//大图域包裹id  
+		tabId:"deconum2",//小圆点数字提示id
+		tabTn:"a",
+		conCn: '.decoimg_b2',//大图域配置class       
+		auto: 1,//自动播放 1或0
+		effect: 'fade',//效果配置
+		eType: 'mouseover',// 鼠标事件
+		pageBt:true,//是否有按钮切换页码
+		bns: ['.prev', '.next'],//前后按钮配置class                          
+		interval: 3000// 停顿时间  
+	}) 
+}) 
+</script>
+</head>
+
+<body>
+<h2 align="center">朋友们，是时候说拜拜了</h2>
+<h1 align="center"><em><big>我们已经收到了您的建议，谢谢欣赏！</big></em></h1>
+<div id="decoroll2" class="imgfocus">
+
+	<div id="decoimg_a2" class="imgbox">
+		<div class="decoimg_b2"><img src="lun/奔马瀑布.jpg"></div>
+		<div class="decoimg_b2"><img src="lun/锦绣山庄.jpg"></div>
+		<div class="decoimg_b2"><img src="lun/酒庄.jpg"></div>
+		
+		<div class="decoimg_b2"><img src="lun/奉先寺.jpg"></div>
+		<div class="decoimg_b2"><img src="lun/药方洞.jpg"></div>
+		<div class="decoimg_b2"><img src="lun/香山寺.jpg"></div>
+
+
+	</div>
+	
+	<ul id="deconum2" class="num_a2">
+		<li><a href="javascript:void(0)" hidefocus="true" target="_self"><p>奔马瀑布</p></a></li>
+		<li><a href="javascript:void(0)" hidefocus="true" target="_self"><p>锦绣山庄</p></a></li>
+		<li><a href="javascript:void(0)" hidefocus="true" target="_self"><p>酒庄</p></a></li>
+		
+		<li><a href="javascript:void(0)" hidefocus="true" target="_self"><p>奉先寺</p></a></li>
+		<li><a href="javascript:void(0)" hidefocus="true" target="_self"><p>药方洞</p></a></li>
+		<li><a href="javascript:void(0)" hidefocus="true" target="_self"><p>香山寺</p></a></li>
+		
+
+	</ul>
+	
+</div>
+
+</body>
+</html>

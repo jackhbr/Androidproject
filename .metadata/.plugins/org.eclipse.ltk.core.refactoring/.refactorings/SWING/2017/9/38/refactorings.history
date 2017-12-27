@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;SWING&apos; to &apos;smallknowledge/src&apos;&#x0D;&#x0A;- Original project: &apos;SWING&apos;&#x0D;&#x0A;- Destination element: &apos;smallknowledge/src&apos;&#x0D;&#x0A;- Original element: &apos;SWING/src/SWING&apos;" description="Copy package" destination="=smallknowledge/src" element1="/src&lt;SWING" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1505913975514" version="1.0"/>
+</session>

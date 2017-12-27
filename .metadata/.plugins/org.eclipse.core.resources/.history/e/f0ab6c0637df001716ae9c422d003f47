@@ -1,0 +1,14 @@
+package scgo;
+
+import robocode.AdvancedRobot;
+
+public class a1 extends AdvancedRobot{
+	public void run()
+	{
+		while(true)
+		{
+			turnRadarLeftRadians(2);
+		}
+	}
+
+}

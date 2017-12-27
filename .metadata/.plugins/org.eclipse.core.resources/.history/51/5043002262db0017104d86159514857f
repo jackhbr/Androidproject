@@ -1,0 +1,35 @@
+package jackhe;
+
+import robocode.HitWallEvent;
+import robocode.ScannedRobotEvent;
+
+public class a3 extends robocode.Robot{
+	public void run(){
+		//摆正车子角度
+		double heading = getHeading();
+		//向左转
+		turnLeft(heading);
+		//旋转炮筒
+		turnGunRight(90);
+		while(true){
+			//前进100
+			ahead(100);
+		}
+		
+	}
+	
+	public void onHitWall(HitWallEvent event){
+		//向右转90度
+		this.turnRight(90);
+	}
+	
+	public void onScannedRobot(ScannedRobotEvent event) {
+	       // Assuming radar and gun are aligned...
+	       if (event.getDistance() < 100) {
+	           fire(3);
+	       } else {
+	           fire(1);
+	       }
+	   }
+
+}

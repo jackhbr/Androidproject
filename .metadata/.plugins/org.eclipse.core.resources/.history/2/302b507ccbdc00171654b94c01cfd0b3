@@ -1,0 +1,7 @@
+package jackhe;
+
+
+
+public class a4 extends robocode.Robot{
+
+}

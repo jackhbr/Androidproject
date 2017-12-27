@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;smallknowledge/src/use_of_class&apos;&#x0D;&#x0A;- Original project: &apos;use of class&apos;&#x0D;&#x0A;- Destination element: &apos;smallknowledge/src/use_of_class&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     XiaoGuaiShou.java&#x0D;&#x0A;     AoTeMan.java&#x0D;&#x0A;     Manager.java" description="Copy compilation units" destination="=smallknowledge/src&lt;use_of_class" element1="/src&lt;{XiaoGuaiShou.java" element2="/src&lt;{AoTeMan.java" element3="/src&lt;{Manager.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1505914097310" units="3" version="1.0"/>
+</session>

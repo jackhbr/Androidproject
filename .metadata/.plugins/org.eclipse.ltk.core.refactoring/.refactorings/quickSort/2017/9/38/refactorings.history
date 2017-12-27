@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;smallknowledge/src/quick_sort&apos;&#x0D;&#x0A;- Original project: &apos;quickSort&apos;&#x0D;&#x0A;- Destination element: &apos;smallknowledge/src/quick_sort&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Test.java&#x0D;&#x0A;     Quick_sort.java" description="Copy compilation units" destination="=smallknowledge/src&lt;quick_sort" element1="/src&lt;{Test.java" element2="/src&lt;{Quick_sort.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1505913890743" units="2" version="1.0"/>
+</session>

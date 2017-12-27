@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;aa.java&apos; to &apos;smallknowledge/src/count_time_cha&apos;&#x0D;&#x0A;- Original project: &apos;countTimeCha&apos;&#x0D;&#x0A;- Destination element: &apos;smallknowledge/src/count_time_cha&apos;&#x0D;&#x0A;- Original element: &apos;aa.java&apos;" description="Copy compilation unit" destination="=smallknowledge/src&lt;count_time_cha" element1="/src&lt;{aa.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1505913488796" units="1" version="1.0"/>
+</session>

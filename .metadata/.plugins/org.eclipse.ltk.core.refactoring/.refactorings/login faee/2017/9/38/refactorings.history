@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;smallknowledge/src/login_face&apos;&#x0D;&#x0A;- Original project: &apos;login faee&apos;&#x0D;&#x0A;- Destination element: &apos;smallknowledge/src/login_face&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ButtonListener.java&#x0D;&#x0A;     JFrameTest.java" description="Copy compilation units" destination="=smallknowledge/src&lt;login_face" element1="/src&lt;{ButtonListener.java" element2="/src&lt;{JFrameTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1505913725249" units="2" version="1.0"/>
+</session>

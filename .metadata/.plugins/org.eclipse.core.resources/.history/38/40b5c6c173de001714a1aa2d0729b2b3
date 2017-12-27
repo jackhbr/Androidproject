@@ -1,0 +1,47 @@
+package jackbox;
+
+import robocode.AdvancedRobot;
+import robocode.HitRobotEvent;
+import robocode.HitWallEvent;
+import robocode.ScannedRobotEvent;
+
+public class go4 extends AdvancedRobot{
+	private Boolean HitWallFlag=false;
+	public void run(){
+		double heading = this.getHeading();
+		turnLeft(heading);//如果时setturnleft则会位置旋转，如果是turnleft就不会位置旋转，
+		while(HitWallFlag==false)
+		{
+			setAhead(50);
+			setTurnGunLeft(10);//先到了最上面的墙壁再说
+			execute();
+		}
+		setTurnLeft(90);
+		while(true)
+		{
+			setAhead(30);
+			setTurnGunLeft(10);
+			if(getX()<200 || getX()>1000)
+			{
+				turnLeft(180);
+			}
+			execute();
+		}
+		
+		
+	}
+	public void onScannedRobot(ScannedRobotEvent event){
+		//扫描到了一个机器人需要执行的内容
+		this.fire(3);
+		
+	}
+	
+	//撞墙旋转90度
+	public void onHitWall(HitWallEvent event){
+		HitWallFlag=true;
+	}
+	public void onHitRobot(HitRobotEvent e) {
+		
+	}
+
+}

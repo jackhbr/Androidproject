@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;sever2&apos; to &apos;QQsever/src&apos;&#x0D;&#x0A;- Original project: &apos;QQsever&apos;&#x0D;&#x0A;- Destination element: &apos;QQsever/src&apos;&#x0D;&#x0A;- Original element: &apos;QQsever/src/sever2&apos;" description="Copy package" destination="/src" element1="/src&lt;sever2" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1508582940232" version="1.0"/>
+</session>

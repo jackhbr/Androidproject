@@ -1,0 +1,63 @@
+package jackbox;
+
+import robocode.*;
+import java.awt.Color;
+/*
+ * author   "扁鹊三连"team
+ */
+public class check2 extends AdvancedRobot {
+	static int direction = 1;
+	static double epEnergy = 100;
+	public void run() {
+		setColors(Color.white, Color.red, Color.green,Color.yellow,Color.red);
+		setAdjustGunForRobotTurn(true);
+		setAdjustRadarForGunTurn(true);
+		do {
+			turnRadarRightRadians(1);
+		} while (true);
+	}
+	public void onScannedRobot(ScannedRobotEvent e) {
+		double Bearing = getHeadingRadians() + e.getBearingRadians();
+		setTurnRightRadians(xiangdui(e.getBearingRadians() + Math.PI / 2)
+				- Math.PI / 4 * Math.random() * direction);
+		setTurnGunRightRadians(xiangdui(Bearing
+				- getGunHeadingRadians()+ Math.asin(e.getVelocity()* Math.sin(e.getHeadingRadians() - Bearing) / 17)));
+		setFire(220 / Math.max(e.getDistance(), 90) + 0.9);
+
+		setTurnRadarRightRadians(xiangdui(Bearing
+				- getRadarHeadingRadians()) * 2);
+		
+		if(epEnergy!=e.getEnergy())//如果上一次敌人的能量值不等于现在的能量值，那么就移动躲掉别人的攻击
+		{
+			epEnergy=e.getEnergy();//获取现在的能量值，形成类似迭代的东西
+			if(Math.random()<0.65)
+			{
+				setAhead(30+Math.random()*e.getDistance());
+			}else {
+				setBack(20+Math.random()*e.getDistance());
+			}
+			
+			
+		}
+		
+		scan();
+	}
+	static double xiangdui(double r) {
+		return Math.atan2(Math.sin(r), Math.cos(r));
+	}
+	public double normalRelativeAngle(double angle) {
+		if (angle > -180 && angle <= 180) {
+			return angle;
+		}
+		double fixedAngle = angle;
+
+		while (fixedAngle <= -180) {
+			fixedAngle += 360;
+		}
+		while (fixedAngle > 180) {
+			fixedAngle -= 360;
+		}
+		return fixedAngle;
+	}
+}
+

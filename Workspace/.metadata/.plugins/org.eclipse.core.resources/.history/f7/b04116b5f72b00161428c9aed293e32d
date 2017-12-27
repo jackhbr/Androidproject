@@ -1,0 +1,209 @@
+<html>
+
+
+<head>
+<title>欢迎来到旅游世界</title>       
+ 		<style type="text/css">
+		em {color:orange}
+		p {color:blue}
+		li {color:blue}
+		</style>
+		<link rel="stylesheet" href="css/themes/default/jquery.mobile-1.4.5.min.css">
+		<script src="js/jquery.js"></script>
+		<script src="js/jquery.mobile-1.4.5.min.js"></script>
+ </head>
+
+
+
+<body>
+
+<div data-role="page" id="gin">
+<div data-role="header">
+<h1>导航</h1>
+</div>
+
+
+<div data-role="content">
+<embed height="1" width="1" src="js/1.mp3"></embed>
+<p> <i><b> <big>欢迎大家来到这个网站，接下来我将带领大家领略洛阳龙门石窟，贺州姑婆山国家森林公园的景色！</big></b></i></p>
+<div data-role="collapsible"  >
+				<h1>龙门石窟</h1>
+				<br>龙门石窟是中国石刻艺术宝库之一，现为世界文化遗产、
+全国重点文物保护单位、国家AAAAA级旅游景区，位于洛阳市南郊伊河两岸的龙门山与香山上。
+龙门石窟开凿于北魏孝文帝年间，之后历经东魏、西魏、北齐、隋、唐、五代、宋等朝代连续大规模营造达400余年之久，
+南北长达1公里，今存有窟龛2345个，造像10万余尊，
+碑刻题记2800余品.2000年被联合国科教文组织列为世界文化遗产。</br>
+<img src="js/3.jpg">
+					
+			</div>
+
+<div data-role="collapsible"  >
+				<h1>姑婆山国家森林公园</h1>
+				<br>姑婆山国家森林公园位于广西东北部的贺州市，
+境内海拔1000米以上的山峰有25座，最高峰海拔1844米，是桂东第一高峰。
+公园2006年被国家旅游局评为国家AAAA级旅游风景区。2013年经公众投票被评为“游客最喜爱的广西景区”和“海外华人最喜爱的华南自然风光景区”。
+以及誉为“华南地区最大的天然氧吧”。</br>
+<img src="js/4.jpg">
+					
+			</div>
+
+ <a href="#main" data-transition="flip"><input type="button" value="让我们走进龙门石窟吧！"/></a>
+</div>
+
+
+
+<div data-role="footer" data-position="fixed">
+				<p>友情链接</p>
+				<a href="http://baike.baidu.com/link?url=YPAweTDSyyNwD8wvwwIAsX3U0grQ61ek2lNjpo5ajNXkWZE6049dmNfT2LpuzDYVS5HihTVZY973wgWaLe58NxjHip0E2823Gz9TSdKDi6i" >龙门石窟</a>
+                                <a href="http://baike.baidu.com/link?url=1SPRhacKrWBVKD913T1SMFaDqJKuMFDfnouO3yJ8Yq0sGgdr2WObMItjN6unoIV0XP2_B845h-It-YL9h8ZT8q">姑婆山国家森林公园</a>
+
+			</div>
+</div>
+
+
+
+
+<div data-role="page" id="main">
+<div data-rola="header">
+<div class="text" style=" text-align:center;"><b><big><big>龙门石窟旅游攻略</big></big></b></div>
+</div>
+
+
+<div data-role="content">
+<p><b> 龙门石窟是中华文化的魁宝，被选为世界文化遗产，也是中国5A级景区之一，位于河南省洛阳市南郊伊河两岸的龙门山与香山上，石窟开凿于北魏，先后历经数个朝代，南北长达1公里，
+至今存有窟龛2345个，造像10万余尊，碑刻题记2800余品，是中国石刻艺术宝库之一。 </b></p>
+<img src="js/3.jpg">
+<input type="button" value="步骤/方法"/>
+<p><b>1、最佳旅游时间：洛阳四季分明，最好的旅游季节是秋天，那时秋高气爽，适宜登山游玩。不过去旅游做多的时间是每年4月1日至5月10日的洛阳牡丹花会期间，这时洛阳城内牡丹盛放，吸引无数中外游客，
+但这时人数较多，喜欢清静的朋友可选择淡季前往，冬季应该是人最少的旅游季节。 </b>  </p>
+<img src="js/12.jpg">
+<p><b>2、门票信息：龙门石窟景点实行一票制，包含龙门石窟、白园、香山寺三个景点，全价120元，学生票半价60元。</b>   </p>
+<img src="js/7.jpg">
+<p><b>3、开放时间：春、夏、秋：7：00—18：30 ，冬季：7：30—17：30 ，每年4月1日—10月10日可夜游龙门，开放时间：18：30—22：00。</b></p>
+<img src="js/8.jpg">
+<p><b>4、景点交通：郑州有到龙门的高铁，40分钟即到龙门，下高铁后可打车火乘公交车20分钟即到龙门景区。洛阳城中可乘81、53、60路公交车前往。另外少林寺有直接到龙门石窟的班车。</b></p>
+<img src="js/9.jpg">
+<p><b>5、旅游路线：西山石窟—东山石窟—香山寺—白园
+西山石窟的路线：北门—禹王池—潜溪寺—宾阳三洞—摩崖三佛龛—万佛洞—莲花洞—奉先寺—古阳洞—药方洞--南门
+东山石窟：南门—擂鼓台三洞—文物廊—千手千眼观音像龛—西方净土变龛—看经寺—二莲花洞—四雁洞—北门
+香山寺： 南步游道—莲花池—钟楼—鼓楼—天王殿—罗汉殿—石楼—九老堂—观景台—大雄宝殿—乾隆御碑亭—蒋宋别墅—撞钟—从后门经东山宾馆进入白园
+白园： 南大门进—南诗廊—琵琶峰—北诗廊—道诗书屋—乐天堂—青谷—正门</b></p>
+
+<img src="js/11.jpg">
+
+</div>
+<div data-role="footer">
+<a href="#gu" data-transition="flip"><input type="button" value="承壮观之石窟，续之为姑婆山清秀"/></a>
+</div>
+</div>
+
+<div data-role="page" id="gu">
+<div data-role="header">
+<h1>Welcome To Aunt Mountain!（姑婆山）</h1>
+
+
+</div>
+<div data-role="content">
+<img src="js/13.jpg" height="900" width="1300">
+</div>
+<div data-role="footer" >
+<a href="#shi" data-transition="flip"><input type="button" value="NEXT,Let's go!"/></a>
+
+</div>
+</div>
+
+
+<div data-role="page" id="shi">
+<div data-role="header">
+<h1><big>欢迎来到视屏直播间</big></h1>
+
+
+</div>
+
+
+<div data-role="content">
+
+	<embed src="js/v.mp4" width="480" height="400"></embed>
+	<img src="js/14.jpg" width="480" height="400">
+	
+	<ul>
+	<li><big>中国唯一登山不喘气的地方！</big></li>
+	<li><big>华南地区最大的天然氧吧！</big></li>
+	<li><big>国家AAAA级旅游风景区！</big></li>
+	<li><big>方圆八十里乃天然动物王国</big></li>
+	<li><big>充满神秘色彩的名字</big></li>
+	</ul>
+	
+	</div>
+
+
+<div data-role="footer" >
+<a href="#wenjuan" data-transition="flip"><input type="button" value="go on"/></a>
+
+</div>
+</div>
+
+
+<div data-role="page" id="wenjuan">
+<div data-role="header">
+<h1>看了、听了我们的导说，您有什么想法呢？</h1>
+
+
+</div>
+<div data-role="content">
+
+<p>请问你的性别是？</p>
+<input type="radio" name="sex" value="male"/>
+</br>male
+<input type="radio" name="sex" value="female"/>
+</br>female
+
+<p>您对这次的导说的满意度为多少</p>
+<input type="radio"  name="num" value="%0" /> </br> %0
+
+<input type="radio"  name="num" value="%20" /> </br> %20
+
+<input type="radio"  name="num" value="%40"/> <br/> %40
+<input type="radio"  name="num" value="%60"/> <br/> %60
+<input type="radio"  name="num" value="%80"/> <br/> %80
+<input type="radio" name="num" value="%100"/> <br/> %100
+<p>欢迎您给我们提建议</p>
+<input type="text" name="text">
+<input type="text" name="text">
+<input type="text" name="text">
+<input type="text" name="text">
+<p>您觉得我们有什么好的地方吗？</p>
+<form>
+图文并茂：
+<input type="checkbox" name="Bike">
+<br />
+音乐背景：
+<input type="checkbox" name="Car">
+<br />
+视频有特点：
+<input type="checkbox" name="Car">
+<br />
+内容多样：
+<input type="checkbox" name="Car">
+</form>
+<embed height="1" width="1" src="js/2.mp3"><embed>
+
+
+</div>
+<div data-role="footer" >
+ <a href="index.html" target="_blank" data-transition="flip"><input type="button" value="Submit"/></a>
+</div>
+</div>
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>

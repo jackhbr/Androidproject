@@ -1,0 +1,36 @@
+package json;
+
+import java.util.ArrayList;
+import java.util.HashMap;  
+import java.util.Map;  //一定得用这个！！！
+import java.util.List;
+
+import org.json.JSONArray;
+
+
+public class GatherToString {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		 //初始化ArrayList集合并添加数据
+        List<String> list = new ArrayList<String>();
+        list.add("username");
+        list.add("age");
+        list.add("sex");
+        //初始化HashMap集合并添加数组
+        Map<String, String> map = new HashMap<String, String>(); 
+        map.put("bookname", "island");
+        map.put("price", "69.0");//这里一定得类型对应！！
+        
+        
+        //初始化JSONArray对象，并添加数据
+        JSONArray array = new JSONArray();
+        array.put(list);
+        array.put(map);
+        System.out.println(array.toString());
+        //生成的JSON字符串为：[["username","age","sex"],{"price":69,"bookname":"CSS3实战"}]
+	}
+
+}

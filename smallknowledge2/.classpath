@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/java/sql/mysql-connector-java-5.1.27.jar" sourcepath="D:/java/sql/mysql-connector-java-5.1.27.jar"/>
+	<classpathentry kind="lib" path="D:/java/MD5/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/java/apacheMina库/mina-core-2.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/java/apacheMina库/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/java/apacheMina库/slf4j-nop-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/java/ftp/commons-net-3.6/commons-net-3.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/java/json/json-20171018.jar" sourcepath="D:/java/json/json-20171018-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

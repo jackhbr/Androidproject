@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Whatch&apos; to &apos;desktopMouseConver&apos;&#x0D;&#x0A;- Original element: &apos;Whatch&apos;&#x0D;&#x0A;- Renamed element: &apos;Whatch&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Whatch&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Whatch" name="desktopMouseConver" references="true" stamp="1507891161281" version="1.0"/>
+</session>

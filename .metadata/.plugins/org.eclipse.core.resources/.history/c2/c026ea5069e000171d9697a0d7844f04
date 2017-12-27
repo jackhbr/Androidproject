@@ -1,0 +1,33 @@
+package json;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import net.sf.json.JSONArray;
+import net.sf.json.JSONObject;
+
+public class GatherToJsonArray {
+
+	public static void main(String[] args) {
+		  //创建JSONObject对象
+        JSONObject json = new JSONObject();
+        
+        //向json中添加数据
+        json.put("username", "wanglihong");
+        json.put("height", 12.5);
+        json.put("age", 24);
+        
+        //创建JSONArray数组，并将json添加到数组
+        JSONArray array = new JSONArray();
+        array.add(json);
+        
+        //转换为字符串
+        String jsonStr = array.toString();
+        
+        System.out.println(jsonStr);  //生成的JSON字符串为：[["username","age","sex"],{"price":69,"bookname":"CSS3实战"}]
+
+	}
+
+}

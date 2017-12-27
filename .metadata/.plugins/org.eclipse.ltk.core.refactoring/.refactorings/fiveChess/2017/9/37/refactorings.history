@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Config.java&apos; to &apos;hwr/src/hwr1&apos;&#x0D;&#x0A;- Original project: &apos;fiveChess&apos;&#x0D;&#x0A;- Destination element: &apos;hwr/src/hwr1&apos;&#x0D;&#x0A;- Original element: &apos;AI4winmore.Config.java&apos;" description="Copy compilation unit" destination="=hwr/src&lt;hwr1" element1="/src&lt;AI4winmore{Config.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1505357939141" units="1" version="1.0"/>
+</session>

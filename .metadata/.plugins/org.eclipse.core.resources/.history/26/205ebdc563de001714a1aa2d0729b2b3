@@ -1,0 +1,10 @@
+package jackbox;
+
+public class thread3 implements Runnable {
+
+	public void run() {
+		
+		
+	}
+
+}

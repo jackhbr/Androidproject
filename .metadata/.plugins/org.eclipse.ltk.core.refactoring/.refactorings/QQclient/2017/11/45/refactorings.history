@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;client2&apos; to &apos;QQclient/src&apos;&#x0D;&#x0A;- Original project: &apos;QQclient&apos;&#x0D;&#x0A;- Destination element: &apos;QQclient/src&apos;&#x0D;&#x0A;- Original element: &apos;QQclient/src/client2&apos;" description="Copy package" destination="/src" element1="/src&lt;client2" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1510062766489" version="1.0"/>
+</session>

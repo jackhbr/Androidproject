@@ -1,0 +1,31 @@
+package myAirModel;
+
+import java.awt.FlowLayout;
+
+import javax.swing.JFileChooser;
+import javax.swing.JFrame;
+
+public class Main {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Main st=new Main();
+		st.showUI();
+
+	}
+	public void showUI()
+	{
+		JFrame jFrame=new JFrame();
+		jFrame.setTitle("经典飞机大战");
+		jFrame.setSize(500, 600);
+		jFrame.setLayout(new FlowLayout());
+		jFrame.setLocationRelativeTo(null);
+		jFrame.setDefaultCloseOperation(3);
+		jFrame.setVisible(true);
+		
+	}
+
+}
